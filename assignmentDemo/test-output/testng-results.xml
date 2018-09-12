@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Unauthorized]]>
+    </line>
+    <line>
+      <![CDATA[Server<-->[GitHub.com]]]>
+    </line>
+    <line>
+      <![CDATA[Date<-->[Wed, 12 Sep 2018 18:52:10 GMT]]]>
+    </line>
+    <line>
+      <![CDATA[Content-Type<-->[application/json; charset=utf-8]]]>
+    </line>
+    <line>
+      <![CDATA[Content-Length<-->[91]]]>
+    </line>
+    <line>
+      <![CDATA[Status<-->[401 Unauthorized]]]>
+    </line>
+    <line>
+      <![CDATA[X-RateLimit-Limit<-->[60]]]>
+    </line>
+    <line>
+      <![CDATA[X-RateLimit-Remaining<-->[59]]]>
+    </line>
+    <line>
+      <![CDATA[X-RateLimit-Reset<-->[1536781930]]]>
+    </line>
+    <line>
+      <![CDATA[X-GitHub-Media-Type<-->[github.v3; format=json]]]>
+    </line>
+    <line>
+      <![CDATA[Access-Control-Expose-Headers<-->[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval]]]>
+    </line>
+    <line>
+      <![CDATA[Access-Control-Allow-Origin<-->[*]]]>
+    </line>
+    <line>
+      <![CDATA[Strict-Transport-Security<-->[max-age=31536000; includeSubdomains; preload]]]>
+    </line>
+    <line>
+      <![CDATA[X-Frame-Options<-->[deny]]]>
+    </line>
+    <line>
+      <![CDATA[X-Content-Type-Options<-->[nosniff]]]>
+    </line>
+    <line>
+      <![CDATA[X-XSS-Protection<-->[1; mode=block]]]>
+    </line>
+    <line>
+      <![CDATA[Referrer-Policy<-->[origin-when-cross-origin, strict-origin-when-cross-origin]]]>
+    </line>
+    <line>
+      <![CDATA[Content-Security-Policy<-->[default-src 'none']]]>
+    </line>
+    <line>
+      <![CDATA[X-Runtime-rack<-->[0.014024]]]>
+    </line>
+    <line>
+      <![CDATA[X-GitHub-Request-Id<-->[135C:393B:12B906B:282B4EA:5B996059]]]>
+    </line>
+    <line>
+      <![CDATA[OkHttp-Sent-Millis<-->[1536778330329]]]>
+    </line>
+    <line>
+      <![CDATA[OkHttp-Received-Millis<-->[1536778330584]]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 401]]>
+    </line>
+    <line>
+      <![CDATA[Failed : HTTP error code : 403]]>
+    </line>
+    <line>
+      <![CDATA[API rate limit exceeded for 106.51.27.77. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)]]>
+    </line>
+    <line>
+      <![CDATA[https://developer.github.com/v3/#rate-limiting]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23594" started-at="2018-09-12T18:52:07Z" finished-at="2018-09-12T18:52:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23594" started-at="2018-09-12T18:52:07Z" finished-at="2018-09-12T18:52:30Z">
+      <class name="apitest.post.AssignmentApiTest">
+        <test-method status="PASS" signature="getStatusCodeValidateMessage()[pri:0, instance:apitest.post.AssignmentApiTest@53b32d7]" name="getStatusCodeValidateMessage" duration-ms="23505" started-at="2018-09-12T18:52:07Z" finished-at="2018-09-12T18:52:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Unauthorized]]>
+            </line>
+            <line>
+              <![CDATA[Server<-->[GitHub.com]]]>
+            </line>
+            <line>
+              <![CDATA[Date<-->[Wed, 12 Sep 2018 18:52:10 GMT]]]>
+            </line>
+            <line>
+              <![CDATA[Content-Type<-->[application/json; charset=utf-8]]]>
+            </line>
+            <line>
+              <![CDATA[Content-Length<-->[91]]]>
+            </line>
+            <line>
+              <![CDATA[Status<-->[401 Unauthorized]]]>
+            </line>
+            <line>
+              <![CDATA[X-RateLimit-Limit<-->[60]]]>
+            </line>
+            <line>
+              <![CDATA[X-RateLimit-Remaining<-->[59]]]>
+            </line>
+            <line>
+              <![CDATA[X-RateLimit-Reset<-->[1536781930]]]>
+            </line>
+            <line>
+              <![CDATA[X-GitHub-Media-Type<-->[github.v3; format=json]]]>
+            </line>
+            <line>
+              <![CDATA[Access-Control-Expose-Headers<-->[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval]]]>
+            </line>
+            <line>
+              <![CDATA[Access-Control-Allow-Origin<-->[*]]]>
+            </line>
+            <line>
+              <![CDATA[Strict-Transport-Security<-->[max-age=31536000; includeSubdomains; preload]]]>
+            </line>
+            <line>
+              <![CDATA[X-Frame-Options<-->[deny]]]>
+            </line>
+            <line>
+              <![CDATA[X-Content-Type-Options<-->[nosniff]]]>
+            </line>
+            <line>
+              <![CDATA[X-XSS-Protection<-->[1; mode=block]]]>
+            </line>
+            <line>
+              <![CDATA[Referrer-Policy<-->[origin-when-cross-origin, strict-origin-when-cross-origin]]]>
+            </line>
+            <line>
+              <![CDATA[Content-Security-Policy<-->[default-src 'none']]]>
+            </line>
+            <line>
+              <![CDATA[X-Runtime-rack<-->[0.014024]]]>
+            </line>
+            <line>
+              <![CDATA[X-GitHub-Request-Id<-->[135C:393B:12B906B:282B4EA:5B996059]]]>
+            </line>
+            <line>
+              <![CDATA[OkHttp-Sent-Millis<-->[1536778330329]]]>
+            </line>
+            <line>
+              <![CDATA[OkHttp-Received-Millis<-->[1536778330584]]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 401]]>
+            </line>
+            <line>
+              <![CDATA[Failed : HTTP error code : 403]]>
+            </line>
+            <line>
+              <![CDATA[API rate limit exceeded for 106.51.27.77. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)]]>
+            </line>
+            <line>
+              <![CDATA[https://developer.github.com/v3/#rate-limiting]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getStatusCodeValidateMessage -->
+      </class> <!-- apitest.post.AssignmentApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
